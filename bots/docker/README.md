@@ -37,4 +37,8 @@ docker 目录下的文件用于构建 Docker Image.  将 spider docker 化, 以�
 感谢 @gwind 耐心的演示. 使我对 Docerk 有了全新的认识!
 
 有任何问题, 欢迎发 pr 给我. 谢谢.
+
+## 相关文档
+-[Debian docker 安装文档](https://docs.docker.com/engine/installation/linux/debian/)
+
 	
